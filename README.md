@@ -306,7 +306,6 @@ Users can filter data by:
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
 
 ```markdown
 ![Dashboard Screenshot](dashboard.png)
