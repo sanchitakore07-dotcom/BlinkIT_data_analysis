@@ -304,9 +304,6 @@ Users can filter data by:
 
 ---
 
-## 📷 Dashboard Preview
-
-
 <h2>📷 Dashboard Preview</h2>
 
 <p align="center">
