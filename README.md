@@ -307,11 +307,12 @@ Users can filter data by:
 ## 📷 Dashboard Preview
 
 
-```markdown
-![Dashboard Screenshot](dashboard.png)
-```
+<h2>📷 Dashboard Preview</h2>
 
----
+<p align="center">
+  <img src="dashboard.png" width="100%">
+</p>
+
 
 ## 🎯 Project Outcome
 
